@@ -31,7 +31,7 @@
 .article::after {
     content: "";
     display: block;
-    width: 30px;
+    width: 3px;
     height: 80px;
     background-color: black;
     flex-shrink: 0;
